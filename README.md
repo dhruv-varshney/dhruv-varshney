@@ -12,7 +12,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on enhancing my Python Skills ;
+- 👨🏽‍💻 I’m currently working on enhancing my Python Skills by solving python problems in hackerrank;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science at Bangalore Institute Of technology
 - 🌐 I am also Interested in making interactive web pages basically frontend;
 - 💬 Ask me about anything, I am happy to help;
