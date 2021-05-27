@@ -45,7 +45,7 @@
 
 
 <p align='center'>
-<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=dhruv-varshney&show_icons=true&hide=stars&count_private=true" alt="Dhruv Varshney" />
+<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=dhruv-varshney&&show_icons=true&count_private=true" alt="Dhruv Varshney" />
 <td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-varshney&layout=compact&hide=html" alt="dhruv-varshney" /></td>
 </tr></table>
 
