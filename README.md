@@ -46,8 +46,7 @@
 
 <p align='center'>
 <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-varshney&layout=compact&hide=html" alt="Dhruv Varshney" />
-<td align="center"></td>
-</tr></table>
+</p>
 
 ## Contact me
 [<img height="30" width ="40" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG1.png" alt="Linkedin" height="32">](https://www.linkedin.com/in/dhruv-varshney-a31241183/)
