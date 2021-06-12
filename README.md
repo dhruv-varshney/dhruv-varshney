@@ -56,4 +56,8 @@
 [<img height="30" width ="40" src="https://i.pinimg.com/originals/1d/b9/9d/1db99daa9371bf0989f05a0bc12e2b9e.png" alt="Website logo" height="32">](https://dhruv-varshney.github.io/MyPortfolio/)
 [<img height="30" width ="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:dhruvvarshney2612@gmail.com)
 
+## Graph
+<p align = "center">
+<img align="center" style="padding=0;" src="https://activity-graph.herokuapp.com/graph?username=dhruv-varshney&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/dhruv-varshney/github-readme-activity-graph" alt="Dhruv Varshney" />
+</p>
 
